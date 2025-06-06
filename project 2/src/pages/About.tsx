@@ -33,7 +33,7 @@ const About = () => {
             <AnimatedSection>
               <img 
                 src="https://images.pexels.com/photos/3768894/pexels-photo-3768894.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
-                alt="Kana Azibabari Lagalo" 
+                alt="Ojinmah Chinedu Christian" 
                 className="rounded-lg shadow-lg w-full h-auto"
               />
             </AnimatedSection>
@@ -80,7 +80,7 @@ const About = () => {
                 <Code className="text-gray-900 mb-4" size={32} />
                 <h3 className="text-xl font-medium mb-3">Test Automation</h3>
                 <p className="text-gray-600">
-                  Creating automated test suites using Selenium, Cypress, and Maestro.
+                  Creating automated test suites using Selenium, Cypress.
                 </p>
               </div>
             </AnimatedSection>
@@ -115,7 +115,7 @@ const About = () => {
               </div>
             </AnimatedSection>
             
-            <AnimatedSection delay={0.6}>
+            {/* <AnimatedSection delay={0.6}>
               <div className="highlight-card">
                 <ShieldCheck className="text-gray-900 mb-4" size={32} />
                 <h3 className="text-xl font-medium mb-3">Cybersecurity</h3>
@@ -123,7 +123,7 @@ const About = () => {
                   Identifying vulnerabilities through security testing and implementing best practices.
                 </p>
               </div>
-            </AnimatedSection>
+            </AnimatedSection> */}
             
             <AnimatedSection delay={0.7}>
               <div className="highlight-card">
@@ -192,12 +192,12 @@ const About = () => {
             <AnimatedSection delay={0.65}>
               <SkillBadge icon={<span>✨</span>} label="GitHub Copilot" />
             </AnimatedSection>
-            <AnimatedSection delay={0.7}>
+            {/* <AnimatedSection delay={0.7}>
               <SkillBadge icon={<span>☁️</span>} label="AWS" />
-            </AnimatedSection>
-            <AnimatedSection delay={0.75}>
+            </AnimatedSection> */}
+            {/* <AnimatedSection delay={0.75}>
               <SkillBadge icon={<span>🐳</span>} label="Docker" />
-            </AnimatedSection>
+            </AnimatedSection> */}
           </div>
         </div>
       </section>

@@ -23,7 +23,7 @@ const Home = () => {
               transition={{ duration: 0.6 }}
             >
               <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4 leading-tight">
-                Hi, I'm Kana Azibabari Lagalo
+                Hi, I'm Ojinmah Chinedu Christian
               </h1>
               <h2 className="text-2xl md:text-3xl text-gray-700 mb-6">
                 Software QA Engineer & Prompt Engineer

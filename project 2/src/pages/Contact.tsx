@@ -167,8 +167,8 @@ const Contact = () => {
                     <Mail className="text-blue-600 mr-4 mt-1" size={24} />
                     <div>
                       <h3 className="font-medium text-gray-900 mb-1">Email</h3>
-                      <a href="mailto:contact@kanalagalo.com" className="text-blue-600 hover:underline">
-                        contact@kanalagalo.com
+                      <a href="ojinmahchinedu15@gmail.com" className="text-blue-600 hover:underline">
+                        ojinmahchinedu15@gmail.com
                       </a>
                     </div>
                   </div>
@@ -178,7 +178,7 @@ const Contact = () => {
                     <div>
                       <h3 className="font-medium text-gray-900 mb-1">LinkedIn</h3>
                       <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">
-                        linkedin.com/in/kanalagalo
+                        linkedin.com/in/chinedu-ojinmah-4b520b198
                       </a>
                     </div>
                   </div>
@@ -188,7 +188,7 @@ const Contact = () => {
                     <div>
                       <h3 className="font-medium text-gray-900 mb-1">GitHub</h3>
                       <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">
-                        github.com/kanalagalo
+                        github.com/NeyduScoop
                       </a>
                     </div>
                   </div>
