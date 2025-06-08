@@ -37,7 +37,7 @@ const Footer = () => {
           <div>
             <h3 className="text-xl font-bold mb-4">Contact</h3>
             <p className="text-gray-400 mb-2">Feel free to reach out for collaborations or just a friendly hello!</p>
-            <a href="mailto:contact@kanalagalo.com" className="text-blue-400 hover:text-blue-300 transition-colors">
+            <a href="mailto:ojinmahchinedu15@gmail.com" className="text-blue-400 hover:text-blue-300 transition-colors">
               contact@ojinmahchinedu.com
             </a>
           </div>

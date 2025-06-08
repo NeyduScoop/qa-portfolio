@@ -34,7 +34,7 @@ const Layout = () => {
       >
         <div className="container flex justify-between items-center">
           <NavLink to="/" className="text-xl font-bold text-gray-900">
-            Kana Azibabari Lagalo
+            Ojinmah Chinedu Christian
           </NavLink>
 
           {/* Desktop Navigation */}

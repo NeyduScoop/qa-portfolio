@@ -49,7 +49,7 @@ const Home = () => {
               className="block"
             >
               <img 
-                src="https://res.cloudinary.com/dmjxpa5gy/image/upload/v1745764743/photo_2024-01-30_14.52.44_tzpuvw_c_crop_ar_1_1_hmxo5o.jpg" 
+                src="https://res.cloudinary.com/dg7zcutu8/image/upload/b_rgb:333B4C/c_fill,w_1024,h_1024,e_improve,e_sharpen/v1749277869/IMG_5392_ucysfc.jpg" 
                 alt="Professional workspace" 
                 className="rounded-lg shadow-lg w-[90%] mx-auto object-cover"
               />

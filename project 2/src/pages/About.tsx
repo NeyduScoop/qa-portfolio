@@ -41,7 +41,7 @@ const About = () => {
             <AnimatedSection delay={0.1}>
               <h2 className="section-title mb-6">My Story</h2>
               <p className="text-gray-700 mb-4">
-                With over 3 years in software quality assurance, I've dedicated my career to ensuring digital products not only function flawlessly but also provide exceptional user experiences.
+                With over 4 years in software quality assurance, I've dedicated my career to ensuring digital products not only function flawlessly but also provide exceptional user experiences.
               </p>
               <p className="text-gray-700 mb-4">
                 My journey began as a manual tester for a freelance plaforms and financial services application, where I discovered my passion for identifying issues before they reached users. Since then, I've evolved my skillset to include test automation, API testing, Performance testing, mobile and web application testing and basic security testing.
