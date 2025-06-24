@@ -73,7 +73,7 @@ const projectsData = [
     description: 'Validated the integration of a payment processing system with multiple merchant systems across various countries and currencies.',
     contributions: [
       'Tested integration with 15+ payment providers',
-      'Acheived PCI DSS Compliance',
+      'Achieved PCI DSS Compliance',
       'Created cross-browser compatibility test suite',
       'Verified compliance with financial regulations',
       'Performed load testing for high-traffic scenarios'

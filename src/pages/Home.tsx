@@ -126,9 +126,9 @@ const Home = () => {
             <AnimatedSection delay={0.1}>
               <div className="card h-full">
                 <div className="p-6">
-                  <h3 className="text-xl font-semibold mb-3">Circle Wealth App</h3>
+                  <h3 className="text-xl font-semibold mb-3">Kalabash Mobile App</h3>
                   <p className="text-gray-600 mb-4">
-                    Led comprehensive QA efforts for a fintech application managing crypto investments and banking services.
+                    Led comprehensive QA efforts for the application managing money, wallets, billspayment, Travel Card, Esim, Flight and Hotel transactions.
                   </p>
                   <Link to="/portfolio" className="text-gray-900 hover:underline inline-flex items-center">
                     View Details
@@ -141,9 +141,9 @@ const Home = () => {
             <AnimatedSection delay={0.2}>
               <div className="card h-full">
                 <div className="p-6">
-                  <h3 className="text-xl font-semibold mb-3">CredPal Crypto Testing</h3>
+                  <h3 className="text-xl font-semibold mb-3">Wakanow Website Testing</h3>
                   <p className="text-gray-600 mb-4">
-                    Implemented automated test frameworks for a cryptocurrency payment gateway, ensuring transaction integrity.
+                    Conducted functional testing on flight search, selection, passenger details, and payment flow.
                   </p>
                   <Link to="/portfolio" className="text-gray-900 hover:underline inline-flex items-center">
                     View Details
